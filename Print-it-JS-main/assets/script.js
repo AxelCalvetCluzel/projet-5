@@ -59,7 +59,7 @@ function clickRight() {
 }
 clickRight();
 
-// clic pour la fleche de gauche
+// clic pour la fleche de gauche !
 
 function clickLeft() {
   arrowLeft.addEventListener("click", () => {
