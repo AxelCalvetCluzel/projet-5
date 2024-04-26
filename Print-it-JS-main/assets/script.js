@@ -42,7 +42,7 @@ function affichageDots() {
 }
 affichageDots();
 
-// clic pour la fleche de droite 
+// clic pour la fleche de droite !
 
 function clickRight() {
   arrowRight.addEventListener("click", () => {
